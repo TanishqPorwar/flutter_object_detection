@@ -2,18 +2,6 @@
 
 Real-time object detection in Flutter using [camera](https://pub.dartlang.org/packages/camera) and [tflite](https://pub.dartlang.org/packages/tflite) plugin.
 
-## Install
-
-```
-flutter packages get
-```
-
-## Run
-
-```
-flutter run
-```
-
 ## Models
 
 - Image Classification
@@ -27,3 +15,25 @@ flutter run
 
 - Pose Estimation
   - PoseNet
+
+## Screenshot
+
+* SSD MobileNet
+<img src="screenshots/1 (1).gif" height = 400>
+* PoseNet
+<img src="screenshots/2.gif" height = 400>
+* Tiny YOLO
+<img src="screenshots/3.gif" height = 400>
+
+## Install
+
+```
+flutter packages get
+```
+
+## Run
+
+```
+flutter run
+```
+
